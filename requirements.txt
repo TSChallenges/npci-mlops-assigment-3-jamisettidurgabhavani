@@ -1,4 +1,4 @@
-# add required dependencies
+# add required dependencies for employee_stats_app.py
 gradio
 pandas
 numpy 
