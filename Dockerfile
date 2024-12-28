@@ -1,5 +1,5 @@
 # Docker file
-# pull python base image
+# pull python base image with given instruction as python:3.9-slim
 FROM python:3.9-slim
 
 # add requirements file & trained model
