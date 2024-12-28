@@ -1,0 +1,28 @@
+#unable to add/upload image so copied that ui and pasted here getting output as expected.
+
+Column Operations
+Select Column
+Age
+Operation
+Mean
+Standard Deviation
+Variance
+Mode
+Median
+Range
+Maximum
+Minimum
+Result
+The range of column 'Age' is: 39
+Calculate Column Operation
+Correlation Between Two Columns
+Select First Column
+Salary
+Select Second Column
+Monthly Expense
+Correlation Result
+The correlation between 'Salary' and 'Monthly Expense' is: 0.19061701390061794
+Calculate Correlation
+Use via APIlogo
+·
+Built with Gradiologo
